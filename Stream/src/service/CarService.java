@@ -1,8 +1,8 @@
-package ru.tbank.hse.fd.streamPractise.service;
+package service;
 
-import ru.tbank.hse.fd.streamPractise.model.Car;
-import ru.tbank.hse.fd.streamPractise.model.CarInfo;
-import ru.tbank.hse.fd.streamPractise.model.Owner;
+import model.Car;
+import model.CarInfo;
+import model.Owner;
 
 import java.util.List;
 

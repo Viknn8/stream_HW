@@ -1,4 +1,4 @@
-package ru.tbank.hse.fd.streamPractise.utils;
+package utils;
 
 public enum Condition {
     NEW("NEW"),

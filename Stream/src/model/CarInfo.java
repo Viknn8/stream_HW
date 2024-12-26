@@ -1,4 +1,4 @@
-package ru.tbank.hse.fd.streamPractise.model;
+package model;
 
 public class CarInfo {
     // Название машины
