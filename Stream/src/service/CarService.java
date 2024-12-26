@@ -21,7 +21,7 @@ public class CarService {
      * Необходимо вернуть список строк из Condition
      */
     public List<String> getConditions(List<Car> cars) {
-        return null;
+        return cars.stream().map(car -> car.getCondition().toString()).toList();
     }
 
     /**
